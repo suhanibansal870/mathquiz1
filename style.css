@@ -1,0 +1,41 @@
+body{
+  text-align: center;
+  font-family: 'Montserrat', serif;
+}
+
+input{
+    width:30%;
+    border:none;
+    font-family: 'Montserrat', serif;
+}
+.player1_login{
+    width: 50%;
+    margin: auto;
+    padding:10px;
+    border-radius: 30px;;
+    background-color: rgb(200, 248, 248);
+    box-shadow: 10px 5px 10px rgba(128, 128, 128, 0.466);
+}
+
+.player2_login{
+    width: 50%;
+    margin: auto;
+    padding:10px;
+    border-radius: 30px;;
+    background-color: lavender;
+    box-shadow: 10px 5px 10px rgba(128, 128, 128, 0.466);
+}
+
+h2{
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+label{
+    padding-right:10px;
+}
+
+button{
+    width:10%;
+}
